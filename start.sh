@@ -6,7 +6,7 @@ sudo apt-get update
 # Install the required packages
 sudo apt-get -y install xorg xserver-xorg xbacklight xbindkeys xvkbd xinput build-essential make git policykit-1-gnome
 sudo apt-get -y install network-manager network-manager-gnome pamixer nemo gvfs file-roller lxappearance dialog mtools
-sudo apt-get -y install dosfstools avahi-daemon gvfs-backends gnome-power-manager
+sudo apt-get -y install dosfstools avahi-daemon gvfs-backends gnome-power-manager net-tools
 sudo apt-get -y install pulseaudio pavucontrol pamixer pulsemixer maim udiskie udisks2 exa scrot
 sudo apt-get -y install rofi uxplay libnotify-bin xdotool unzip zip libnotify-dev geany-plugins
 sudo apt-get -y install geany vlc kitty alacritty lolcat rxvt-unicode zenity yad dex cmus arc-theme
